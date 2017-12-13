@@ -2,9 +2,9 @@
 @import url("https://rawgit.com/0mniscient/Discord-Themes/master/css/Quiet.css");
 
 :root { 
-	--theme-name: "Reborn";
-	--theme-letter: "R";
-	/*--version-content: "1.0";*/
+	--theme-name: "Tigerr";
+	--theme-letter: "T";
+	/*--version-content: "1.2";*/
  }
 
 .ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: var(--theme-name)" v" var(--version-content) "\A \A Theme Options:\A \A - Revert bottom to default\A - Bring back mention(s) notifications bar\A - Circle Avatars\A - Revert Min, Max, Close buttons to default\A - Better Mentions (Pulsing Box Shadow)\A - Show/Hide Blocked messages\A - Loading Theme Animation \A \A Go to discord.me/mrrobotserver to show love and support! <3"!important;}
