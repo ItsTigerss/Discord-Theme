@@ -2,58 +2,10 @@
 @import url("https://rawgit.com/ItsTigerss/ThemeSilent/master/silenttheme.css");
 
 :root { 
-	--theme-name: "Tigerr";
-	--theme-letter: "T";
+	--theme-name: "Silent v1.2";
+	--theme-letter: "S";
 	/*--version-content: "1.2";*/
- }
-/* "Status Circles v1.2" by ItsTigerr */
-.channel-members .avatar-small .status,
-.private-channels .avatar-small .status,
-.account .avatar-small .status {
-    width: 100% !important;
-    height: 100% !important;
-    background: transparent;
-    border-radius: 50%;
-    top: -2px;
-    left: -2px;
-    box-shadow: 0 0 1px #000 inset;
-}
-.channel-members .avatar-small .status-online,
-.private-channels  .avatar-small .status-online,
-.account .avatar-small .status-online {
-    border: 2px solid #43b581 !important;
-}
-.channel-members .avatar-small .status-idle,
-.private-channels  .avatar-small .status-idle,
-.account .avatar-small .status-idle {
-    border: 2px solid #faa61a !important;
-}
-.channel-members .avatar-small .status-dnd,
-.private-channels  .avatar-small .status-dnd,
-.account .avatar-small .status-dnd {
-    border: 2px solid #f04747 !important;
-}
-.channel-members .avatar-small .status-streaming,
-.private-channels .avatar-small .status-streaming,
-.account .avatar-small .status-streaming {
-    border: 2px solid #643da7 !important;
-}
-.channel-members .avatar-small .status-invisible,
-.private-channels  .avatar-small .status-invisible,
-.account .avatar-small .status-invisible {
-    border: 2px solid #747f8d !important;
-}
-.private-channels  .avatar-small .status-offline {
-    border: 2px solid transparent !important;
-}
-.status.status-typing {
-    width: 30px !important;
-    background-color: rgba(0, 0, 0, 0.3) !important;
-}
-.status.status-typing .spinner .spinner-inner {
-    left: 1px;
-    top: 1px;
-}
+
 
 .ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: var(--theme-name)" v" var(--version-content) "\A \A Theme Options:\A \A - Revert bottom to default\A - Bring back mention(s) notifications bar\A - Circle Avatars\A - Revert Min, Max, Close buttons to default\A - Better Mentions (Pulsing Box Shadow)\A - Show/Hide Blocked messages\A - Loading Theme Animation \A \A Go to discord.me/mrrobotserver to show love and support! <3"!important;}
 
