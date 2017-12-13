@@ -415,9 +415,9 @@ span.spinner{margin-top: 2px;}
 
 .userPopout-4pfA0d .headerNormal-1cioxU{background: transparent!important}
 
-.avatarCircle-3luwna{border-color: transparent;}
+.avatar-small-3luwna{border-color: transparent;}
 
-.header-3mZJcV .avatarStatusCircle-1OXVjG{border-color: transparent;}
+.header-3mZJcV .avatarStatus-small-1OXVjG{border-color: transparent;}
 
 .userPopout-4pfA0d::before{content: "";position: absolute;top: 0px;right: 0px;bottom: 0px;left: 0px;z-index: -1;background-position: center;-webkit-filter: blur(3px);filter: blur(3px);overflow: hidden !important;}
 
